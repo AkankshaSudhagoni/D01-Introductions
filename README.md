@@ -39,4 +39,10 @@
 ### Photo : <img src="Image.jpg" alt="drawing" width="150" style="border-radius:50%" /> 
 
 
-
+# Preferred name : vamshi
+### Current degree: masters in ACS
+### Past experience: worked as ETL Developer for 3 years at Tech Mahindra
+### Future plans : planning to work as full stack developer
+### LinkedIn profile: https://www.linkedin.com/in/vamshi-thirunagari-73944077/
+### GitHub profile: https://github.com/vammshiee
+### Photo : <img src="img.jpg" alt="drawing" width="150" style="border-radius:50%" /> 
