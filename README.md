@@ -5,7 +5,7 @@
 ## 4.Future plans: To work as a full stack developer
 ## 5.LinkedIn profile: https://www.linkedin.com/in/akanksha-goud-aa0ab8211/
 ## 6.GitHub profile:https: //github.com/S542046
-### 7.Photo:  <img src="Akanksha.jpg" alt="drawing" width="150" style="border-radius:50%" /> 
+### 7.Photo:  <img src="WhatsApp Image 2021-05-11 at 11.49.56 AM.jpeg" alt="drawing" width="150" style="border-radius:50%" /> 
 
 
 
