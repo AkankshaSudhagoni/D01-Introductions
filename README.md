@@ -37,7 +37,7 @@
 ### Future plans : My aim is to work as an App developer.
 ### LinkedIn profile: https://www.linkedin.com/in/vivektadiparthi/
 ### GitHub profile:  https://github.com/vivektadiparthi
-### Photo : <img src="vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" /> 
+### Photo : <img src="Image.jpg" alt="drawing" width="150" style="border-radius:50%" /> 
 
 
 
