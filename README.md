@@ -19,3 +19,14 @@
 ### GitHub profile:  https://github.com/shivani-ta
 ### Photo : <img src="vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" /> 
 
+
+# D01-Introductions
+* Preferred name : Vasavi
+*  Current degree: Masters in ACS
+*  Past experience: Worked as a Software Developer i Virtusa.
+*  Future plans : Planning to work as FullStack Developer
+*  LinkedIn profile: https://www.linkedin.com/in/sri-vasavi-vipparla-22ba81126/
+*  GitHub profile:https://github.com/Srivasavi-vipparla
+*  Photo : <img src="vasu.png" alt="drawing" width="150" style="border-radius:50%" /> 
+
+
