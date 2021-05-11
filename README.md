@@ -17,5 +17,5 @@
 ### Future plans : planning to work as full stack developer
 ### LinkedIn profile: https://www.linkedin.com/in/shivani-tangellapally-a003601b5/
 ### GitHub profile:  https://github.com/shivani-ta
-### Photo : <img src="IMG_0044.JPG" alt="drawing" width="150" style="border-radius:50%" /> 
+### Photo : <img src="vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" /> 
 
